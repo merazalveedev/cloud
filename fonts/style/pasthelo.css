@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Pasthelo';
+    src: url('../file/Pasthelo.eot');
+    src: url('../file/Pasthelo.eot?#iefix') format('embedded-opentype'),
+         url('../file/Pasthelo.woff2') format('woff2'),
+         url('../file/Pasthelo.woff') format('woff'),
+         url('../file/Pasthelo.ttf')  format('truetype'),
+         url('../file/Pasthelo.svg#Pasthelo') format('svg');
+}
