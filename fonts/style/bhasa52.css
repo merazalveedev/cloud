@@ -1,6 +1,6 @@
 /* Li Bhasa 52 Unicode Regular */
 @font-face {
-    font-family: 'Li Bhasa 52 Unicode';
+    font-family: 'Bhasa 52';
     font-style: normal;
     font-weight: 400;
     src: url('../file/LiBhasa52-Regular.eot');
@@ -13,7 +13,7 @@
 
 /* Li Bhasa 52 Unicode Italic */
 @font-face {
-    font-family: 'Li Bhasa 52 Unicode';
+    font-family: 'Bhasa 52';
     font-style: italic;
     font-weight: 400;
     src: url('../file/LiBhasa52-Italic.eot');
